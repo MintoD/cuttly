@@ -1,6 +1,6 @@
 # cuttly
 
-**Unofficial Deno module for cutt.ly.
+**Unofficial Deno module for cutt.ly.**
 
 ## Usage
 
